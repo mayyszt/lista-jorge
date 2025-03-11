@@ -1,0 +1,70 @@
+
+html{
+    background-color: rgb(253, 240, 225);
+    
+}
+
+.titulo h1{
+    text-align: center;
+    background-color: rgb(247, 213, 169);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    
+}
+.caracteristicas h2{    
+        text-align: center;
+}
+
+.caracteristicas p{
+    text-align: center;
+} 
+img{
+    margin-left: 40%;
+}
+ 
+hr{
+    border: 1px solid;
+    border-color: rgb(231, 203, 168);
+}
+.ingredientes{
+    h3{
+       text-align: center;
+       font-size: 25px;
+      
+    }
+}
+
+.mododepreparo{
+    h3{
+        text-align: center;
+        font-size: 22px;
+    }
+    ol{ 
+        margin-left: 10%;
+        font-weight: bold;
+    }
+
+}
+
+
+
+. {
+    width: 90px;
+    height: 20px;
+    margin-top: 40px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+
+   
+   
+    
+
+
+
+
